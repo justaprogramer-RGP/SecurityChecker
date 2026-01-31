@@ -25,4 +25,4 @@ This application is intended for security checking purposes only.
 It is **not** a hacking tool and does not exploit vulnerabilities.
 
 ## 👨‍💻 Developer
-Jack
+justaprogramer-RGP
