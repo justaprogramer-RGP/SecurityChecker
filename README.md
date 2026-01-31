@@ -18,7 +18,7 @@
 - Current version: v1.0
 
 ## ⚙️ Requirements
-- Android 9 or higher
+- Android 8.0 or higher
 
 ## ⚠️ Disclaimer
 This application is intended for security checking purposes only.  
