@@ -1,0 +1,1 @@
+Check basic Android security status and system risk score.
