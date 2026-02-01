@@ -18,7 +18,7 @@
 - Current version: v1.0
 
 ## ⚙️ Requirements
-- Android 8.0 or higher
+- Android 5.0 or higher
 
 ## ⚠️ Disclaimer
 This application is intended for security checking purposes only.  
@@ -27,10 +27,8 @@ It is **not** a hacking tool and does not exploit vulnerabilities.
 ## 👨‍💻 Developer
 justaprogramer-RGP (REAL NAME: Jack)
 
-# SecurityChecker
-
-**SecurityChecker** is an open-source Android project by Jack, licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
-
+## 🤝 License
+**SecurityChecker** is an open-source Android project by Jack, licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 You can:
 - **Use** it freely.
 - **Modify** it.
