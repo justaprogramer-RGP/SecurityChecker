@@ -25,4 +25,19 @@ This application is intended for security checking purposes only.
 It is **not** a hacking tool and does not exploit vulnerabilities.
 
 ## 👨‍💻 Developer
-justaprogramer-RGP
+justaprogramer-RGP (REAL NAME: Jack)
+
+## SecurityChecker
+
+**SecurityChecker** is an open-source Android project by Jack, licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+You can:
+- **Use** it freely.
+- **Modify** it.
+- **Distribute** it, as long as you include this license and keep it under GPL-3.0.
+
+For more details, see [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html).
+
+---
+
+© 2026 Jack (justaprogramer-RGP)
