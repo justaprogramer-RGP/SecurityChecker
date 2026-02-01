@@ -1,0 +1,15 @@
+Security Checker is a simple open-source Android application that helps users
+understand the basic security status of their device.
+
+The app analyzes several system properties and provides a clear risk score
+based on the device configuration.
+
+Features:
+- Android version and SDK level check
+- Security patch level detection
+- Simple risk score
+- No ads
+- No tracking
+- Fully offline
+
+No personal data is collected.
