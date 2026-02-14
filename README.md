@@ -36,6 +36,11 @@ You can:
 
 For more details, see [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html).
 
+## ⚙️ How it works
+- checks your API level
+- checks security patch level
+- checks if "USB debugging" enabled/dissabled
+- checks if root enabled/disabled by searching for those files bin/su, xbin/su, system/bin/level
 ---
 
 © 2026 Jack (justaprogramer-RGP)
